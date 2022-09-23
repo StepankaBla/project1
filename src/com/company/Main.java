@@ -53,7 +53,7 @@ public class Main {
 
                     switch (odpoved1) {
                         case "2a":
-                            System.out.println("spravne");
+                            System.out.println("spravne!");
                             score += 1;
                             break;
                         case "2b":
