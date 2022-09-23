@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        //nabidka
         System.out.println("Vítejte v nabídce aplikací!");
         int vyber;
         int score = 0;
